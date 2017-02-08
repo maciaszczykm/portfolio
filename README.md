@@ -1,7 +1,7 @@
 # Portfolio
 Single page graphic designer portfolio.
 
-# Live version
+# On-line version
 [http://annadronka.pl/](http://annadronka.pl/)
 
 # Setup
