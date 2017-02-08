@@ -1,11 +1,24 @@
-.modal-padding {
-  padding: 36px;
+.img-responsive {
+  cursor: pointer;
 }
 
-.modal-info {
-  padding-top: 36px;
+.modal-container {
+  padding: 20px;
 }
 
-.img-modal {
+.modal-heading {
+  margin: 5px;
+}
+
+.modal-img-container{
   display: inline-block;
+}
+
+.modal-img-desc {
+  font-size: 18px;
+  margin: 5px 5px 20px 5px;
+}
+
+.modal-img {
+  margin: 5px 5px 5px 5px;
 }
