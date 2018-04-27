@@ -1,9 +1,6 @@
 # Portfolio
 Single page graphic designer portfolio.
 
-# On-line version
-[http://annadronka.pl/](http://annadronka.pl/)
-
 # Setup
 1. Upload to HTTP server.
 2. Make sure that you allowed `formspree.io` to send emails to your address.
